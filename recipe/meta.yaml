@@ -21,14 +21,14 @@ requirements:
     - httpx2 >=2.0.0
     - pip
     - pyjwt >=2.8.0
-    - python >=3.11
+    - python
 
   run:
     - cryptography >=48.0.1
     - fastapi >=0.111.1
     - httpx2 >=2.0.0
     - pyjwt >=2.8.0
-    - python >=3.11
+    - python
 
 test:
   imports:
